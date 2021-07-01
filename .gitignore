@@ -119,3 +119,4 @@ dist
 
 # Files that webpack compiles
 dist/main.js
+dist/main.js.map
